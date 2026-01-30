@@ -1,4 +1,4 @@
-`timescale 1ns / 1p
+`timescale 1ns / 1ps
 `include "include.v"
 
 module zyNet #(
