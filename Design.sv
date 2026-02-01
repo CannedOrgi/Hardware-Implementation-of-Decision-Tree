@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-`include "include.v"
+`include "include.v
 
 module zyNet #(
     parameter integer C_S_AXI_DATA_WIDTH    = 32,
